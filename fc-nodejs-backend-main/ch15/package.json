@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "seq": "sequelize-cli"
+  },
+  "author": "haeny-dev",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "pg": "^8.7.1",
+    "prompts": "^2.4.2",
+    "sequelize": "^6.12.1",
+    "sequelize-cli": "^6.3.0"
+  }
+}
